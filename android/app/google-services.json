@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "555806693501",
+    "project_id": "proteka-app",
+    "storage_bucket": "proteka-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555806693501:android:bcf21887674a3d38de7914",
+        "android_client_info": {
+          "package_name": "com.example.proteka_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555806693501-7ksgrukia771hh7f3ca062gvnqp15jp0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHmPgRz-66tIX_PE0oQusC7WTXN9vEEUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555806693501-7ksgrukia771hh7f3ca062gvnqp15jp0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
